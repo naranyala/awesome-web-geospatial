@@ -449,6 +449,7 @@ Ready-to-use web applications for geospatial data.
 - **[overpass-turbo](https://github.com/tyrasd/overpass-turbo)** - Data mining tool for OpenStreetMap.
 
 - **[Maputnik](https://github.com/maputnik/editor)** - Visual editor for Mapbox GL styles.
+- **[KoreAves GIS Explorer](https://koreaves.com/gis/)** - Free browser-based map to compare source-linked bird observation evidence across South Korea's 17 administrative regions. Supports species search and source drilldown; evidence coverage is not population abundance or proof of absence. An end-user reference atlas, not a GIS developer library or a raw data repository.
 
 ---
 
