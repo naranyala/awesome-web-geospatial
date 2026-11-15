@@ -330,6 +330,8 @@ Libraries for animating web maps and handling time-series data.
 
 - **[leaflet-velocity](https://github.com/danwild/leaflet-velocity)** - Visualizes wind fields, ocean currents, and vector data with particle animation effects.
 
+- **[Map Animation Studio](https://map-animation.com/)** - Browser editor for animating routes, camera moves, and region highlights on a timeline and exporting map videos. Requires a free account. [Illustrated route walkthrough](https://map-animation.com/guides/animate-a-route).
+
 ---
 
 ## Map Printing & Export
